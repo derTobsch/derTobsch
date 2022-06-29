@@ -3,9 +3,14 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=derTobsch&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=derTobsch&" alt="derTobsch" />
 
-Hey there 👋, I am Tobsch one of the maintainer of the Urlaubsverwaltung, an open source absence management system, and jollyday, a public holiday library.
+Hey there 👋, I am Tobsch one of the maintainer of the [Urlaubsverwaltung], an open source absence management system, and [Jollyday], a public holiday library.
 
-If you want to support my work you can [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/derTobsch)
+If you want to support my work you can  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/derTobsch)
+
+
+[Urlaubsverwaltung]: https://github.com/synyx/urlaubsverwaltung
+[Jollyday]: https://github.com/focus-shift/jollyday
 
 <!--
 **derTobsch/derTobsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
