@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=derTobsch&show_icons=true&theme=vue&hide_title=true&count_private=true" />
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=derTobsch&" alt="derTobsch" />
 
-I think some text on this site is missing. 🔭 
+Hey there 👋, I am Tobsch one of the maintainer of the Urlaubsverwaltung, an open source absence management system, and jollyday, a public holiday library.
 
 <!--
 **derTobsch/derTobsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
