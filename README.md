@@ -5,7 +5,8 @@
 
 Hey there 👋, I am Tobsch one of the maintainer of the [Urlaubsverwaltung], an open source absence management system, and [Jollyday], a public holiday library.
 
-If you want to support my work you can via https://paypal.me/derTobsch/15
+If you want to support my work you can via  
+[![paypal](https://www.paypalobjects.com/webstatic/de_DE/i/de-pp-logo-100px.png)](https://www.paypal.me/derTobsch/15)
 
 
 [Urlaubsverwaltung]: https://github.com/synyx/urlaubsverwaltung
