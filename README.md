@@ -5,8 +5,7 @@
 
 Hey there 👋, I am Tobsch one of the maintainer of the [Urlaubsverwaltung], an open source absence management system, and [Jollyday], a public holiday library.
 
-If you want to support my work you can  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/derTobsch)
+If you want to support my work you can via https://paypal.me/derTobsch/15
 
 
 [Urlaubsverwaltung]: https://github.com/synyx/urlaubsverwaltung
